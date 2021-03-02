@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/informatievlaanderen/automatic-maintenance/compare/v1.0.0...v1.0.1) (2021-03-02)
+
+
+### Bug Fixes
+
+* add readme ([6038cf6](https://github.com/informatievlaanderen/automatic-maintenance/commit/6038cf6de604fcdea73e283a770c9756639be95f))
+
 # 1.0.0 (2021-03-02)
 
 

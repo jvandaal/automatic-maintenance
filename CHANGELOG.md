@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/informatievlaanderen/automatic-maintenance/compare/v1.0.1...v1.0.2) (2021-03-02)
+
+
+### Bug Fixes
+
+* publish to vbr jira ([80d1b93](https://github.com/informatievlaanderen/automatic-maintenance/commit/80d1b93a68643bae19619bcdd563181b13254c28))
+
 ## [1.0.1](https://github.com/informatievlaanderen/automatic-maintenance/compare/v1.0.0...v1.0.1) (2021-03-02)
 
 

@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/informatievlaanderen/automatic-maintenance/compare/v1.0.2...v1.0.3) (2021-03-23)
+
+
+### Bug Fixes
+
+* remove ridingwolf, collaboration ended ([363de85](https://github.com/informatievlaanderen/automatic-maintenance/commit/363de855759f1439c720ef4e19c161ed71193ffb))
+
 ## [1.0.2](https://github.com/informatievlaanderen/automatic-maintenance/compare/v1.0.1...v1.0.2) (2021-03-02)
 
 

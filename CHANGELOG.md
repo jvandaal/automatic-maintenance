@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/informatievlaanderen/automatic-maintenance/compare/v1.0.3...v1.0.4) (2021-05-29)
+
+
+### Bug Fixes
+
+* move to 5.0.6 ([3e5b6be](https://github.com/informatievlaanderen/automatic-maintenance/commit/3e5b6beaed502447fe786064eb7eee353b5c1535))
+
 ## [1.0.3](https://github.com/informatievlaanderen/automatic-maintenance/compare/v1.0.2...v1.0.3) (2021-03-23)
 
 

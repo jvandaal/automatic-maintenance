@@ -13,6 +13,8 @@ databases=(
     "postal-registry"
     "streetname-registry-events"
     "streetname-registry"
+    "road-registry-events"
+    "road-registry"
 )
 
 for db in ${databases[@]}

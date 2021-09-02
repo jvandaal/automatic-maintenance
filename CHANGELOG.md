@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/informatievlaanderen/automatic-maintenance/compare/v1.0.4...v1.1.0) (2021-09-02)
+
+
+### Features
+
+* add road-registry to maintenance ([6ab5d46](https://github.com/informatievlaanderen/automatic-maintenance/commit/6ab5d46b0e3de4c70d6eaeb8a8ab66365064bd86))
+
 ## [1.0.4](https://github.com/informatievlaanderen/automatic-maintenance/compare/v1.0.3...v1.0.4) (2021-05-29)
 
 

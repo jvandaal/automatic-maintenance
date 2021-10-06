@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/informatievlaanderen/automatic-maintenance/compare/v1.1.0...v1.1.1) (2021-10-06)
+
+
+### Bug Fixes
+
+* add Test to ECR ([33c180a](https://github.com/informatievlaanderen/automatic-maintenance/commit/33c180a42432f0c6a437f296873e97dd3be34f2b))
+
 # [1.1.0](https://github.com/informatievlaanderen/automatic-maintenance/compare/v1.0.4...v1.1.0) (2021-09-02)
 
 

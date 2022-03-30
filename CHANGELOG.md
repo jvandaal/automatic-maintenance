@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/informatievlaanderen/automatic-maintenance/compare/v1.1.1...v2.0.0) (2022-03-30)
+
+
+### Features
+
+* move to dotnet 6.0.3 ([b09d5c9](https://github.com/informatievlaanderen/automatic-maintenance/commit/b09d5c988cfb2c65c6052a87fb0710f9e577cdc3))
+
+
+### BREAKING CHANGES
+
+* move to dotnet 6.0.3
+
 ## [1.1.1](https://github.com/informatievlaanderen/automatic-maintenance/compare/v1.1.0...v1.1.1) (2021-10-06)
 
 

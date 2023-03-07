@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/informatievlaanderen/automatic-maintenance/compare/v2.0.0...v2.1.0) (2023-03-07)
+
+
+### Features
+
+* expand sql index maintenance to multiple db instances ([1dc5fbb](https://github.com/informatievlaanderen/automatic-maintenance/commit/1dc5fbb5cec1f9ece7fdabdd9e1974fb1d046ae4))
+
 # [2.0.0](https://github.com/informatievlaanderen/automatic-maintenance/compare/v1.1.1...v2.0.0) (2022-03-30)
 
 

@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/informatievlaanderen/automatic-maintenance/compare/v2.1.0...v2.1.1) (2023-03-07)
+
+
+### Bug Fixes
+
+* use dashes rather than underscores in db name ([f27ec55](https://github.com/informatievlaanderen/automatic-maintenance/commit/f27ec554a6d3fbfc74e2dbf651860251e4539519))
+
 # [2.1.0](https://github.com/informatievlaanderen/automatic-maintenance/compare/v2.0.0...v2.1.0) (2023-03-07)
 
 

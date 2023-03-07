@@ -1,3 +1,10 @@
+## [2.1.4](https://github.com/informatievlaanderen/automatic-maintenance/compare/v2.1.3...v2.1.4) (2023-03-07)
+
+
+### Bug Fixes
+
+* add another special command back ([01a67cb](https://github.com/informatievlaanderen/automatic-maintenance/commit/01a67cb3a1836055dd532ae24e900d5aaecbd524))
+
 ## [2.1.3](https://github.com/informatievlaanderen/automatic-maintenance/compare/v2.1.2...v2.1.3) (2023-03-07)
 
 

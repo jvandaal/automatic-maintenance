@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/informatievlaanderen/automatic-maintenance/compare/v2.1.1...v2.1.2) (2023-03-07)
+
+
+### Bug Fixes
+
+* pass correct db variable to sqlcmd ([d97b171](https://github.com/informatievlaanderen/automatic-maintenance/commit/d97b1712c745e3ad338477106c4519624c823c70))
+
 ## [2.1.1](https://github.com/informatievlaanderen/automatic-maintenance/compare/v2.1.0...v2.1.1) (2023-03-07)
 
 

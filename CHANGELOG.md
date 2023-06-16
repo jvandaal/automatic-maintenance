@@ -1,3 +1,10 @@
+## [2.1.7](https://github.com/informatievlaanderen/automatic-maintenance/compare/v2.1.6...v2.1.7) (2023-06-16)
+
+
+### Bug Fixes
+
+* ci to trigger build ([47ab001](https://github.com/informatievlaanderen/automatic-maintenance/commit/47ab001f539a540340252b55bafe761ca8dedec9))
+
 ## [2.1.6](https://github.com/informatievlaanderen/automatic-maintenance/compare/v2.1.5...v2.1.6) (2023-06-16)
 
 

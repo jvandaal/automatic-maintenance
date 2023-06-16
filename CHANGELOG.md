@@ -1,3 +1,10 @@
+## [2.1.5](https://github.com/informatievlaanderen/automatic-maintenance/compare/v2.1.4...v2.1.5) (2023-06-16)
+
+
+### Bug Fixes
+
+* add new prd CI CD ([449fb23](https://github.com/informatievlaanderen/automatic-maintenance/commit/449fb23e3686a6e2b045c3795f0f628efba8f372))
+
 ## [2.1.4](https://github.com/informatievlaanderen/automatic-maintenance/compare/v2.1.3...v2.1.4) (2023-03-07)
 
 

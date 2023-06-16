@@ -171,6 +171,14 @@ jobs:
         SEMVER: ${{ env.RELEASE_VERSION }}
         WORKSPACE: ${{ github.workspace }}
 
+    - name: Configure AWS credentials (Production)
+      if: env.RELEASE_VERSION != 'none'
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.VBR_AWS_ACCESS_KEY_ID_MEWPRD }}
+        aws-secret-access-key: ${{ secrets.VBR_AWS_SECRET_ACCESS_KEY_NEWPRD }}
+        aws-region: ${{ secrets.VBR_AWS_REGION_PRD }}
+
     - name: Login to Amazon ECR (New Production)
       if: env.RELEASE_VERSION != 'none'
       uses: aws-actions/amazon-ecr-login@v1

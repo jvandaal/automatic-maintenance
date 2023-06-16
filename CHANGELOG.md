@@ -1,3 +1,10 @@
+## [2.1.6](https://github.com/informatievlaanderen/automatic-maintenance/compare/v2.1.5...v2.1.6) (2023-06-16)
+
+
+### Bug Fixes
+
+* ci new prd to trigger build ([347d42d](https://github.com/informatievlaanderen/automatic-maintenance/commit/347d42d168984863c4228a4ec9d5cf851d7ca387))
+
 ## [2.1.5](https://github.com/informatievlaanderen/automatic-maintenance/compare/v2.1.4...v2.1.5) (2023-06-16)
 
 
